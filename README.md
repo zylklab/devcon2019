@@ -2,9 +2,7 @@
 
 The materials for the lighting talk presentation at Alfresco Devcon 2019 are linked here:
 
-## Lighting Talk Session
-
-### Portal & Content Services Revisited: Alfresco - Liferay Integration
+## Portal & Content Services Revisited: Alfresco - Liferay Integration
 
 In many real life scenarios, Digital Experience Platforms such as Liferay DXP (some time ago known as Enterprise Portals), and Content Services Platforms as Alfresco live together managing some parts of the document lifecycle. This portlet integration provides a solution for Alfresco content publication in a portal such as Liferay DXP via CMIS API.
 
@@ -17,7 +15,23 @@ The typical uses cases involve:
  * The possibility for browsing, searching and downloading contents from the portal page.
  * A solution for several logical views of the repository in different pages of the portal.
 
+The main functionality of the portlet is to browse, search and download documents under a given rootPath of the Alfresco Repository. The endpoint and rootPath are configurable per portlet instance via an Alfresco consumer user under the given rootPath. Note, that you can deploy this portlet in multiple pages of your portal pointing to different rootPaths of your repository. Finally, you may consider an Alfresco Smart Folder also as rootPath, for a more complex case when the publication workflow is not focused under a usual Space Folder.
+
 ![Alfresco logical views](./images/liferay_alfresco_portlet.png)
+
+## Screenshots
+
+### Browse features
+
+![Alfresco Browser Portlet](./images/portlet-browse.png)
+
+### Search features
+
+![Alfresco Search](./images/portlet-search.png)
+
+### Configuration
+
+![Alfresco Portlet Configuration](./images/portlet-config.png)
 
 ## About the author
 
@@ -26,3 +40,17 @@ Mikel Asla is IT/Solution developer at zylk.net, working with Alfresco-based sol
  - Linkedin Profile - https://www.linkedin.com/in/mikelasla
  - Company Website  - http://www.zylk.net/es/home
  - Alfresco Blog    - http://www.zylk.net/alfresco-blog
+
+## Tested on
+
+This portlet integration is valid for:
+ * Liferay 7.x DXP
+ * Alfresco 5.x
+
+## Contributors
+
+ * Mikel Asla
+ * Jon Ander Gonzalez
+ * Cesar Capillas
+ * Alfredo Sanchez
+
