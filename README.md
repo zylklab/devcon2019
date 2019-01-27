@@ -6,6 +6,8 @@ The materials for the lighting talk presentation at Alfresco Devcon 2019 are lin
 
 In many real life scenarios, Digital Experience Platforms such as Liferay DXP (some time ago known as Enterprise Portals), and Content Services Platforms as Alfresco live together managing some parts of the document lifecycle. This portlet integration provides a solution for Alfresco content publication in a portal such as Liferay DXP via CMIS API.
 
+![Liferay and Alfresco](./images/liferay_alfresco_portlet.png)
+
 The typical uses cases involve:
 
  * The publication of documents stored under a defined Alfresco rootPath or Smart Folder (for example, a publication folder in Alfresco Site).
@@ -20,6 +22,8 @@ The main functionality of the portlet is to browse, search and download document
 ![Alfresco logical views](./images/liferay_alfresco_portlet.png)
 
 ## Screenshots
+
+![Alfresco Browser Portlet Liferay Page](./images/alfresco-browser-portlet.png)
 
 ### Browse features
 
