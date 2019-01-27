@@ -6,7 +6,7 @@ The materials for the lighting talk presentation at Alfresco Devcon 2019 are lin
 
 In many real life scenarios, Digital Experience Platforms such as Liferay DXP (some time ago known as Enterprise Portals), and Content Services Platforms as Alfresco live together managing some parts of the document lifecycle. This portlet integration provides a solution for Alfresco content publication in a portal such as Liferay DXP via CMIS API.
 
-![Liferay and Alfresco](./images/liferay_alfresco_portlet.png)
+![Liferay and Alfresco](./images/liferay_alfresco.png)
 
 The typical uses cases involve:
 
