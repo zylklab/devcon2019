@@ -21,6 +21,12 @@ The main functionality of the portlet is to browse, search and download document
 
 ![Alfresco logical views](./images/liferay_alfresco_portlet.png)
 
+https://services.zylk.net/share/s/EDf-DJm5TrywUGqPeCsTYA
+
+## Video Demo
+
+<a href='http://www.youtube.com/watch?feature=player_embedded&v=anEVQ_5NvNY' target='_blank'><img src='http://img.youtube.com/vi/anEVQ_5NvNY/0.jpg' width='425' height=344 /></a>
+
 ## Screenshots
 
 ![Alfresco Browser Portlet Liferay Page](./images/alfresco-browser-portlet.png)
@@ -58,3 +64,7 @@ This portlet integration is valid for:
  * Cesar Capillas
  * Alfredo Sanchez
 
+## Links
+
+ * [Alfresco Devcon 2019 Presentation](https://services.zylk.net/share/s/EDf-DJm5TrywUGqPeCsTYA)
+ * [See you in Alfresco Devcon 2019](https://www.zylk.net/es/web-2-0/blog/-/blogs/see-you-in-alfresco-devcon-2019)
